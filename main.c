@@ -1,4 +1,7 @@
-pseudo code
+Initial Security()
+{
+ //Sample Code 2
+}pseudo code
 {
 Initial Function()
 {
