@@ -1,6 +1,6 @@
-Initial Security()
+Initial Security2()
 {
- //Sample Code 2
+ //Sample Code 22
 }pseudo code
 {
 Initial Function()
